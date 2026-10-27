@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Rajesh-Git03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Rajesh-Git03/Rajesh-Git03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interests: Problem-solving, automation, cloud computing, and DevOps.
+🌱 Currently Learning: Advanced DevOps, CI/CD, containerization, and cloud technologies.
+💻 Working With: Linux, Git, GitHub, Docker, Kubernetes, and CI/CD tools.
+🤝 Looking to Collaborate On: Open-source projects, DevOps automation, and cloud-native applications.
+🎯 Goal: Build scalable, reliable, and automated infrastructure.
+📫 Connect With Me: www.linkedin.com/in/rajesh-j-a3813a24a/
+⚡ Fun Fact: I enjoy solving challenging problems and finding smarter ways to automate repetitive tasks!
